@@ -1,5 +1,4 @@
 import { useState } from "react";
-import State from "./components/State";
 
 function App() {
 
