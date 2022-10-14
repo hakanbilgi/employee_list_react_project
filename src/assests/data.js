@@ -37,14 +37,14 @@ const data = [
     {
       id: 'BB 58 36 13 U',
       name: 'Emily Cunningham',
-      age: 64,
+      age: 44,
       image: 'https://randomuser.me/api/portraits/women/50.jpg',
       email: 'emily.cunningham@example.com',
     },
     {
       id: '059737189',
       name: 'William Claire',
-      age: 62,
+      age: 48,
       image: 'https://randomuser.me/api/portraits/men/57.jpg',
       email: 'william.claire@example.com',
     },
