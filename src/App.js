@@ -9,6 +9,7 @@ function App() {
 const [page, setPage] = useState(1);
 const userPerPage = 5;      // her sayfada 5 adet resim olsun
 
+
 const indexOffLastUser = page * userPerPage;
 const indexOffFirstUser = indexOffLastUser - userPerPage;
 
