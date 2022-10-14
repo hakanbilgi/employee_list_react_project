@@ -1,9 +1,17 @@
 import { useState } from "react";
+import Button from "./components/Button/Button";
+import Header from "./components/Header/Header";
+import Main from "./components/Main/Main";
+import data from "../src/assets/data";
 
 function App() {
 
   return (
-  <h1>merhaba</h1>
+ <>
+ <Header/>
+ <Main/>
+ <Button/>
+ </>
   );
 }
 
