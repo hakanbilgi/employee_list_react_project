@@ -2,7 +2,7 @@ import './App.css';
 import Button from './components/Button/Button';
 import Header from './components/Header/Header';
 import Main from './components/Main/Main';
-import data from './assests/data';
+import data from './Helper/data';
 import {useState} from 'react';
 
 function App() {
